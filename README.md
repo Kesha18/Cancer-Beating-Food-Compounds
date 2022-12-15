@@ -12,6 +12,7 @@ Two files used futher for training and prediction:
 * test.csv contains all the training data with features like Primary_ID, InChI_Key, Name, SMILES without any labels
 
 Code:
+* model_300dim.pkl required to load the pre-trained Gensim Model
 * Code.ipynb consist of approach-1 disscused in the report for Random Forest, Logistic Regression and Linear SVM
 * CrossVal_Code.ipynb consist of approach-2 disscused in the report for K-fold Cross Validate on models Random Forest, Logistic Regression and Linear SVM
 
