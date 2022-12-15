@@ -5,9 +5,11 @@ According to various studies, it is proven that any chronic diseases like cancer
 
 File ids.csv consists of IDs, Name, InChIKey used for generating smiles from the scientific name
 Using notebook 'SmilesFromID.ipynb', generated smiles for the corresponding scientific name
+
 Two files used futher for training and prediction:
 * Smiles.csv contains all the training data with features like Primary_ID, InChI_Key, Name, SMILES and labels
 * test.csv contains all the training data with features like Primary_ID, InChI_Key, Name, SMILES without any labels
+
 Code:
 * Code.ipynb for approach 1  
 * CrossVal_Code.ipynb for approach 2
