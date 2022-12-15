@@ -12,7 +12,10 @@ Two files used futher for training and prediction:
 * test.csv contains all the training data with features like Primary_ID, InChI_Key, Name, SMILES without any labels
 
 Code:
-* Code.ipynb for approach 1  
-* CrossVal_Code.ipynb for approach 2
+* Code.ipynb consist of approach-1 disscused in the report for Random Forest, Logistic Regression and Linear SVM
+* CrossVal_Code.ipynb consist of approach-2 disscused in the report for K-fold Cross Validate on models Random Forest, Logistic Regression and Linear SVM
+
+Prediction:
+* Final_Predictions.csv consists of food compounds and prediction labels obtianed for 'test.csv' 
 
 
