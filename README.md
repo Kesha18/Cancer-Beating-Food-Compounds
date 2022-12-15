@@ -17,5 +17,6 @@ Code:
 
 Prediction:
 * Final_Predictions.csv consists of food compounds and prediction labels obtianed for 'test.csv' 
+* Label is '1' if the food compound is anti-cancer and '0' if its not anti-cancer
 
 
